@@ -1,5 +1,9 @@
 # tls-fingerprint-scraper-demo
 
+[![CI](https://github.com/Massii-08/tls-fingerprint-scraper-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Massii-08/tls-fingerprint-scraper-demo/actions/workflows/ci.yml)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 **By Feedsmith.**
 
 > Empty results behind Cloudflare are often a **TLS fingerprint check before the
